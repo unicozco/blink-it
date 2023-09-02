@@ -1,7 +1,3 @@
-.location{
-
-}
-
 .location>h5{
     color: rgb(0, 0, 0);
     font-weight: 800;
@@ -27,7 +23,7 @@
   border-radius: 9px;
   background: rgb(248,248,248);
   color:rgb(130,130,130);
-  height:
+  
 
 }
 .searchbar>input{
